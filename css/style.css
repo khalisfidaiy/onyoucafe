@@ -40,15 +40,9 @@ form{
   border: 0;
 }
 
-.button:after{ 
-  border: 0;
+.button: focus {
+  background-color: #674b35;
 }
-
-.button:active:after{ 
-  border: 0;
-  background-color:  #674b35
-}
-
 
 .title {
   color: #674b35;
