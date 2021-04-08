@@ -40,14 +40,9 @@ form{
   border: 0;
 }
 
-.button:after{ 
+.button:select{ 
   border: 0;
   background-color:  #674b35
-}
-
-.button:active:after{
-  border: 0;
-  background-color: #674b35
 }
 
 
