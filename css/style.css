@@ -40,7 +40,11 @@ form{
   border: 0;
 }
 
-.button:select{ 
+.button:after{ 
+  border: 0;
+}
+
+.button:active:after{ 
   border: 0;
   background-color:  #674b35
 }
