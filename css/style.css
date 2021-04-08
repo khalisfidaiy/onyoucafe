@@ -40,10 +40,6 @@ form{
   border: 0;
 }
 
-.button: focus {
-  background-color: yellow;
-}
-
 .title {
   color: #674b35;
 }
